@@ -146,8 +146,8 @@ nav {
 #bigpicture {
   background-image:url("images/sky_fest.jpeg");
   background-position: center;
-  height: 440px;
-  padding-top: 350px;
+  height: 420px;
+  padding-top: 230px;
   opacity: 0.6;
   display: block;
   background-size: cover;
